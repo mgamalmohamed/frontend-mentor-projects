@@ -20,6 +20,10 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ![](images/Capture-Frontend-Mentor-Stats-preview-card-component.png)
 
+## Desktop View
+
+![](images/Capture-Frontend-Mentor-Stats-preview-card-component-Mobile.png)
+
 
 ### Links
 
